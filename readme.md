@@ -1,3 +1,3 @@
-# Servdidor Dedicado DST
+# Servidor Dedicado DST
 
 Em processo de construção
